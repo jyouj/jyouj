@@ -1,10 +1,11 @@
 # Hello, World 👋
 
-ゆーじぇいです！岡山出身で今は東京に住んでいます。大学一年生です！18ｻｲ。
+ゆーじぇいです！岡山出身で今は東京に住んでいます。大学一年生です！19ｻｲ。
 
 ## 所属
 - 東京大学文科二類 (2020.4 ~ )
 - TNK 17th (2020.5 ~ )
+- Wit 1st (2020.7 ~ )
 
 ## バックグラウンド
 - 岡山朝日高校 (2017.4 ~ 2020.3)
@@ -19,7 +20,7 @@
  - [Facebook](https://www.facebook.com/profile.php?id=100028278360875)
  - [note](https://note.com/jyouj__)
  - [Instagram](https://instagram.com/jyouj_books_food)
- - [Scrapbox](https://scrapbox.io/jyouj/) ← 活発！見て欲しい
+ - [Scrapbox](https://scrapbox.io/jyouj/)
  
  ## 運営サービス
  - [ガチャっとニュースリメイク](https://gachat-news.herokuapp.com) (2020.5 ~ )
@@ -40,9 +41,10 @@
  - VScode
  - Docker
  - Heroku
- - Firebase (Hosting, Authentication)
+ - Firebase (Hosting, Authentication, Cloud Firestore, Cloud Function)
  - Github Pages
  - Glide
+ - STUDIO
 
 <!--
 **jyouj/jyouj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
